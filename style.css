@@ -1,0 +1,33 @@
+body { background-color: #E2FFFF; color: #15495E;
+  font-family: Playfair Display, Verdana, sans-serif;
+    
+     }
+
+h1 { background-color: #011C40; color: #6bd2f5;
+ line-height: 200%;
+ font-family: Playfair Display, "Times New Roman", serif;
+ text-indent: 1em;
+ text-shadow: 3px 3px 5px #000000;
+ text-align: center; 
+   }
+
+h2 { background-color: #B0E6E6; color: #237B7B;
+  font-family: Playfair Display, "Times New Roman", serif;
+ text-align: center;
+   }
+
+nav { font-weight: bold;
+    font-size: 1.25em;
+  word-spacing: 1em; 
+    }
+
+p { font-size: .90em;
+text-indent: 3em; 
+  }
+
+footer { color: #333333;
+ font-size: .75em;
+ font-style: italic; 
+       }
+
+
